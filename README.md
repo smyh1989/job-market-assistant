@@ -146,6 +146,16 @@ FUTURE IMPROVEMENTS
 
 ---
 
+## 🖥️ Interface
+
+### Chat Assistant
+![Chat UI](assets/chat-ui.png)
+
+### Resume Match
+![Resume UI](assets/resume-ui.png)
+
+---
+
 AUTHOR
 
 Somi Shafiee  

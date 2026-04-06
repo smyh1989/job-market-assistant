@@ -51,10 +51,10 @@ def evaluate_resume(resume_file, job_query, location):
     return result
 
 
-with gr.Blocks(title="Toronto Job Market Assistant") as demo:
-    gr.Markdown("# Toronto Job Market Assistant")
+with gr.Blocks(title="Job Market Assistant") as demo:
+    gr.Markdown("# Job Market Assistant")
     gr.Markdown(
-        "Search Toronto jobs, ask semantic questions about stored job data, "
+        "Search jobs, ask semantic questions about stored job data, "
         "or upload a resume and evaluate it against a target role."
     )
 
@@ -92,5 +92,5 @@ with gr.Blocks(title="Toronto Job Market Assistant") as demo:
 
 
 if __name__ == "__main__":
-    logger.info("Starting Toronto Job Market Assistant...")
+    logger.info("Starting Job Market Assistant...")
     demo.launch()
