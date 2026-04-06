@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Data Analyst",
+    "company": "Toronto Insights Inc.",
+    "location": "Toronto, ON",
+    "skills": ["SQL", "Python", "Excel", "Tableau"],
+    "description": "Analyze business data, create dashboards, and support reporting."
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Maple Digital",
+    "location": "Toronto, ON",
+    "skills": ["SQL", "Python", "A/B Testing", "Analytics"],
+    "description": "Support product decisions through metrics, experiments, and reporting."
+  },
+  {
+    "title": "Junior Data Scientist",
+    "company": "North AI Labs",
+    "location": "Toronto, ON",
+    "skills": ["Python", "Machine Learning", "Pandas", "SQL"],
+    "description": "Build simple models, clean datasets, and help deploy analytics workflows."
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Lakeview Retail",
+    "location": "Mississauga, ON",
+    "skills": ["Power BI", "SQL", "Excel"],
+    "description": "Design dashboards and monitor KPIs for retail operations."
+  }
+]

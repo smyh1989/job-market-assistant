@@ -1,0 +1,5 @@
+Toronto data roles often ask for SQL, Python, Excel, Tableau, Power BI, statistics, and communication skills.
+
+Product analyst roles in Toronto commonly mention SQL, experimentation, dashboards, stakeholder communication, and product metrics.
+
+Entry-level candidates are often expected to show projects, portfolios, GitHub work, and clear business communication.
