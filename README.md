@@ -1,4 +1,4 @@
-🚀 Toronto Job Market Assistant (AI + RAG + Resume Evaluator)
+🚀 Job Market Assistant (AI + RAG + Resume Evaluator)
 
 An AI-powered assistant that helps users explore the Toronto job market, perform semantic search over job postings, and evaluate resumes against real-world job requirements.
 
